@@ -1,0 +1,14 @@
+.analytics-container {
+    display: flex;
+    flex-direction: column;
+    padding-right: 15px;
+
+    .header {
+        font-size: 24px;
+    }
+
+    .value {
+        font-size: 52px;
+        color: #BDBCB5;
+    }
+}
